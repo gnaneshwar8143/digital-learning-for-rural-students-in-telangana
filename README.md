@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital Learning Platform for Rural School Students in Telangana
 
 > **Final-Year Computer Science & Engineering Major Project**  
@@ -119,3 +120,6 @@ Comprehensive major project technical documentation is located in the `docs/` fo
 - [docs/api.md](file:///c:/Users/pocha/Downloads/majorproject/docs/api.md) - REST API specification.
 - [docs/research-gap.md](file:///c:/Users/pocha/Downloads/majorproject/docs/research-gap.md) - Academic research gap analysis.
 - [docs/testing.md](file:///c:/Users/pocha/Downloads/majorproject/docs/testing.md) - Testing execution guide.
+=======
+# digital-learning-for-rural-students-in-telangana
+>>>>>>> 630cc925cdc8852a4ef70e3709c9cc6661534be6
